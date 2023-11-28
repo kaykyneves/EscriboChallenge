@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(196, 193, 193);
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+#exibir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1000%;
+}
